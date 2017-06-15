@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cyklomapa Slovenska</title>
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width">
+		<meta charset="utf-8" />
+		<link rel="stylesheet" href="files/normalize.css">
+		<link rel="stylesheet" href="files/main.css">
+		<link rel="stylesheet" href="files/cyklotrasy.css">
+		<script src="files/vendor/modernizr-2.6.2.min.js"></script>
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+        <script>window.jQuery || document.write('<script src="files/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+		<!-- <link rel="stylesheet" href="http://code.jquery.com/ui/1.10.3/themes/smoothness/jquery-ui.css">
+		<script src="http://code.jquery.com/ui/1.10.3/jquery-ui.js"></script> 
+        <script type="text/javascript" src="files/plugins.js"></script> -->
+        <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false&libraries=panoramio,weather"></script>
+        <script type="text/javascript" src="files/cyklotrasy.js"></script>
+	</head>
+	<body>
+		<div class="container">
+			<div id="map-canvas"></div>
+			<div id="legend_button">
+				<input type="button" class="button rounded" value="Ovládacie prvky" title="Zobrazí ovládacie prvky." />
+			</div>
+			<div id="legend" oncontextmenu="return false" ondragstart="return false" onselectstart="return false"> <!--onmousedown="return false" -->
+				<div>
+					<div class="checkbox-wrap">
+						<input id="hladat" class="button rounded_left" type="checkbox" /><label for="hladat" title="Vyhľadanie adresy.">Hľadať</label>
+					</div>
+					<div class="checkbox-wrap">
+						<input id="trasa" class="button rounded_right" type="checkbox" /><label for="trasa" title="Vyhľadanie PEŠEJ (pre cyklistu len orientačnej) trasy medzi dvoma adresami.">Trasa</label>
+					</div>
+				</div>
+				<div id="hide_button">
+					<input type="button" class="button rounded" id="button_hide" value="Skryť" title="Skryje ovládacie prvky." />
+				</div>
+				<div>&nbsp <br />&nbsp </div>
+				<div id="vyhladavanie">
+					<div id="path">
+						<b id="a">A: </b>
+						<input id="from" type="text" class="rounded_left" style ="width:150px" value="Devín, Slovensko">
+						<input id="geocode" type="button" class="button rounded_right" style = "position:relative;left:-8px;z-index:1;" value="Tu" title="Vygeneruje adresu na základe Vašej polohy." onclick="getLocation(geocodePosition)">
+					</div>
+					<b id="b">B: </b><input id="address" type="text" class="rounded" style ="width:190px" value="Bratislava, Slovensko"><br />
+					<input id="search" type="button" class="button rounded" value="Nájdi" onclick="codeAddress()" title="Nájde zadanú adresu.">
+					<input id="pedestrian" type="button" class="button rounded" value="Nájdi trasu" title="Nájde PEŠIU (pre cyklistu len orientačnú) trasu medzi zadanými adresami." onclick="findRoute()">
+					<input id="navigate" type="button" class="button rounded" value="Naviguj" title="Nájde PEŠIU (pre cyklistu len orientačnú) trasu medzi Vašou polohou a zadanou adresou." onclick="getLocation(navigate)">
+					<input id="delete" type="button" class="button rounded" value="Vymaž" title="Odstráni nájdenú trasu z mapy." onclick="delRoute()">
+				</div>
+				<div>
+					<input id="cyklotrasy" type="checkbox" class="checkbox" onchange="toggleLayer(cyklotrasy_oma), toggleLayer(cyklotrasy1), toggleLayer(cyklotrasy2), toggleLayer(cyklotrasy3)" checked="true" /><label for="cyklotrasy">Cyklotrasy (sivé=neznačené)</label><br />
+					<!-- <input id="cyklotrasy1" type="checkbox" class="checkbox" onchange="toggleLayer(cyklotrasy1)" checked="true" /><label for="cyklotrasy1">Cyklotrasy1</label><br />
+					<input id="cyklotrasy2" type="checkbox" class="checkbox" onchange="toggleLayer(cyklotrasy2)" checked="true" /><label for="cyklotrasy2">Cyklotrasy2</label><br />
+					<input id="cyklotrasy3" type="checkbox" class="checkbox" onchange="toggleLayer(cyklotrasy3)" checked="true" /><label for="cyklotrasy3">Cyklotrasy3</label><br /> -->
+					<input id="layer2" type="checkbox" class="checkbox" onchange="toggleLayer(layer2)" /><label for="layer2">Vedľajšie komunikácie</label><br />
+					<input id="layer3" type="checkbox" class="checkbox" onchange="toggleLayer(layer3)" /><label for="layer3">Chodníky</label><br />
+					<input id="layer1" type="checkbox" class="checkbox" onchange="toggleLayer(layer1)" /><label for="layer1">Nevhodné komunikácie</label>
+				</div>
+				<p>
+					<input id="layer4" type="checkbox" class="checkbox" onchange="toggleLayer(pozicovne), toggleLayer(layer4)" /><label for="layer4">Obchody, servisy a požičovne</label><br />
+					<input id="stojany" type="checkbox" class="checkbox" onchange="toggleLayer(stojany)" /><label for="stojany">Stojany na bicykle</label><br />
+				</p>
+				<p>
+					<input type="button" class="button rounded" value="Moja poloha" onclick="getLocation(displayPosition)" title="Jednorázovo zobrazí polohu. Je potrebné povoliť lokalizáciu v prehliadači."/>
+					<input id="location" type="checkbox" class="checkbox" onchange="toggleLocation(this)" /><label for="location" title="Pravidelne aktualizuje polohu a centruje mapu.">Aktualizovať</label> 
+				</p>
+				<p>
+					<input id="trafficLayer" type="checkbox" class="checkbox" onchange="toggleLayer(trafficLayer)" /><label for="trafficLayer">Aktuálna doprava (Google)</label><br />
+					<!-- <input id="panoramioLayer" type="checkbox" class="checkbox" onchange="toggleLayer(panoramioLayer)" /><label for="panoramioLayer">Fotografie (Panoramio)</label><br />
+					<input id="weatherLayer" type="checkbox" class="checkbox" onchange="toggleLayer(weatherLayer)" /><label for="weatherLayer">Počasie (weather.com)</label><br /> -->
+				</p>
+				<small>
+				<div align="right">
+					© prispievatelia <a href="http://wiki.freemap.sk/OpenStreetMap" target="_blank" 
+					title='Mapka bola vytvorená z dát projektu OpenStreetMap, ktoré sú šírené pod licenciou ODbL. Samotná mapka je pod licenciu CC-BY-SA.'>OpenStreetMap</a><br />
+					<input id="info_show" type="checkbox" class="checkbox" title="Zobrazí informácie o projekte." /><label for="info_show">Doplňujúce informácie</label><br />
+				</div>
+				<div id="info">
+					<p>
+						Vytvorené z dát <a class="" href="http://wiki.freemap.sk/OpenStreetMap" target="_blank">OpenStreetMap</a>, 
+						ktoré sú šírené pod licenciou <a class="" href="http://wiki.freemap.sk/ODbL" target="_blank">ODbL</a>. 
+						Táto mapka je pod licenciou CC-BY-SA. 
+						Chýbajú v nej dáta z vášho okolia? Neváhajte a <a href="http://wiki.freemap.sk/StarterGuide" target="_blank">doplňte ich!</a>
+					</p>
+					<p align="right">
+						<b>Dáta: </b><a href="http://www.oma.sk/debug/cykloatlas-export.html" target="_blank">oma.sk</a>
+						<a href="http://www.bikermania.sk/znaceneTrasy.php" target="_blank">BIKERmania</a>
+						<a href="http://cyklotrasy.freemap.sk/" target="_blank">freemap.sk</a><br />
+						<!-- <b>Vytvorené pre: </b><a href="http://www.cyklokoalicia.sk/" target="_blank">Cyklokoalícia</a><br /> -->
+						<b>Spracoval: </b><a href="https://www.facebook.com/bcief" target="_blank">Branislav Čief</a><br />
+					</p>
+				</div>
+				</small>
+			</div>
+		</div>
+		<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-42655924-1', 'granci.com');
+  ga('send', 'pageview');
+
+</script>
+	</body>
+</html>
