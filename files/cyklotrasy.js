@@ -121,39 +121,39 @@ function initialize() {
 	stojany = new google.maps.KmlLayer({
 		map: null,
 		//url: 'https://dl.dropboxusercontent.com/u/58021984/files/slovensko-stojany1.kml',
-		url: 'https://raw.githubusercontent.com/granci/cyklotrasy/gh-pages/files/slovensko-stojany1.kml',
+		url: 'https://granci.github.io/cyklotrasy/files/slovensko-stojany1.kml',
 		preserveViewport: true
 	});
 	//kml cyklotrasy
 	cyklotrasy1 = new google.maps.KmlLayer({
 		map: map,
 // 		url: 'https://dl.dropboxusercontent.com/u/58021984/files/slovensko-cyklotrasy14.kml',
-		url: 'https://raw.githubusercontent.com/granci/cyklotrasy/gh-pages/files/slovensko-cyklotrasy14.kml',
+		url: 'https://granci.github.io/cyklotrasy/files/slovensko-cyklotrasy14.kml',
 		preserveViewport: true
 	});
 	cyklotrasy2 = new google.maps.KmlLayer({
 		map: map,
 // 		url: 'https://dl.dropboxusercontent.com/u/58021984/files/slovensko-cyklotrasy25.kml',
-		url: 'https://raw.githubusercontent.com/granci/cyklotrasy/gh-pages/files/slovensko-cyklotrasy25.kml',
+		url: 'https://granci.github.io/cyklotrasy/files/slovensko-cyklotrasy25.kml',
 		preserveViewport: true
 	});
 	cyklotrasy3 = new google.maps.KmlLayer({
 		map: map,
 // 		url: 'https://dl.dropboxusercontent.com/u/58021984/files/slovensko-cyklotrasy33.kml',
-		url: 'https://raw.githubusercontent.com/granci/cyklotrasy/gh-pages/files/slovensko-cyklotrasy33.kml',
+		url: 'https://granci.github.io/cyklotrasy/files/slovensko-cyklotrasy33.kml',
 		preserveViewport: true
 	});
 	cyklotrasy_oma = new google.maps.KmlLayer({
 		map: map,
 // 		url: 'https://dl.dropboxusercontent.com/u/58021984/files/cyklotrasa5.kml',
-		url: 'https://raw.githubusercontent.com/granci/cyklotrasy/gh-pages/files/cyklotrasa5.kml',
+		url: 'https://granci.github.io/cyklotrasy/files/cyklotrasa5.kml',
 		preserveViewport: true
 	});
 	//kml pozicovne
 	pozicovne = new google.maps.KmlLayer({
 		map: null,
 // 		url: 'https://dl.dropboxusercontent.com/u/58021984/files/slovensko-pozicovne4.kml',
-		url: 'https://raw.githubusercontent.com/granci/cyklotrasy/gh-pages/files/slovensko-pozicovne4.kml',
+		url: 'https://granci.github.io/cyklotrasy/files/slovensko-pozicovne4.kml',
 		preserveViewport: true
 	});
 	// doprava
