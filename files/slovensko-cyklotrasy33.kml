@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name>slovensko-cyklotrasy</name>
+  <description><![CDATA[]]></description>
+<!--   <NetworkLink>
+    <name>Značené - Banská Bystrica</name>
+    <Link>      		<href>http://maps.google.sk/maps/ms?ie=UTF8&amp;t=m&amp;vpsrc=6&amp;oe=UTF8&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ad8113e96e230fb86&amp;output=kml</href>
+    </Link>
+  </NetworkLink>  -->
+  <!-- <NetworkLink>
+    <name>Značené Trasy - Bratislava</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;t=m&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.00049e1c285347f6480cd&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+  <NetworkLink>
+    <name>Značené - Brezno</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?vpsrc=0&amp;ctz=-120&amp;ie=UTF8&amp;t=m&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004aeeefa8a67867ac13&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+  <!-- <NetworkLink>
+    <name>Značené - Horné Považie</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;t=m&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004acb9114c99113a12e&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+<!--   <NetworkLink>
+    <name>Značené Trasy KE / PO</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.00049b5bdb4c61785fdb0&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+  <NetworkLink>
+    <name>Značené - Kremnica</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;t=m&amp;vpsrc=0&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ade5d931936db9d55&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+  <NetworkLink>
+    <name>Značené Trasy Kysuce</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.00049c3a41a606cc004a6&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+  <NetworkLink>
+    <name>Značené - Liptov</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;vpsrc=0&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ac68c9418bdc59f96&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+  <!-- <NetworkLink>
+    <name>Muráň</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;t=h&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ca9827b9936ad20ae&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+  <!-- <NetworkLink>
+    <name>Značené - Nízke Tatry</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;t=m&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ab3f181ed01372dae&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+  <NetworkLink>
+    <name>Značené - Orava, Terchová</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ac52fec624a5e8e3b&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+  <!-- <NetworkLink>
+    <name>Pieniny</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;t=h&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004c61a4df6463994e7c&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+  <!-- <NetworkLink>
+    <name>Značené Trasy - Podunajsko</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.00049d7b381a785d6d820&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+  <NetworkLink>
+    <name>Značené Trasy Považie</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.00049c4d9e081c089f1dc&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+  <NetworkLink>
+    <name>Značené - Prievidza</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;t=m&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ad959c1fffe0688ee&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+  <!-- <NetworkLink>
+    <name>Značené - Slovenský Kras</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ab142d563f6f3c7f3&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+  <!-- <NetworkLink>
+    <name>Značené - Slovenský Raj</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004abf2d9c26d8a9f504&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+  <NetworkLink>
+    <name>Značené - Spiš</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?vpsrc=6&amp;ctz=-120&amp;ie=UTF8&amp;t=m&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004aeb324c5cb60a5661&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+  <NetworkLink>
+    <name>Značené Turč. Teplice</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?doflg=ptk&amp;ie=UTF8&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ac40a06ee9434229b&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+<!--   <NetworkLink>
+    <name>Značené Trasy Turiec, Rajec</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?gl=sk&amp;ie=UTF8&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.00049b32a0c47ab68a79e&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+<!--   <NetworkLink>
+    <name>Značené - Východ</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?doflg=ptk&amp;ie=UTF8&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ac2b68f2dd996ec13&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+  <NetworkLink>
+    <name>Značené - Vysoké Tatry</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;t=m&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ad46db9d91f5086c9&amp;output=kml</href>
+    </Link>
+  </NetworkLink>
+<!--   <NetworkLink>
+    <name>Značené - Záhorie</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;t=m&amp;vpsrc=6&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ae0ffe08c879c5efb&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+  <!-- <NetworkLink>
+    <name>Značené - Žilina</name>
+    <Link>
+      <href>http://maps.google.sk/maps/ms?ie=UTF8&amp;vpsrc=0&amp;oe=UTF8&amp;authuser=0&amp;hl=en&amp;msa=0&amp;msid=209016632482950776117.0004ac447b3b4aabfa9b5&amp;output=kml</href>
+    </Link>
+  </NetworkLink> -->
+</Document>
+</kml>
