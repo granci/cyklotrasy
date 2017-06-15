@@ -1,0 +1,191 @@
+﻿html, body, #map-canvas {margin: 0; padding: 0; height: 100%;}
+a:link {color:#FF9900;}    /* unvisited link */
+a:visited {color:#995708;} /* visited link */
+a:hover {color:#FF9900; text-shadow: 0px 0px 5px #FF9900;}   /* mouse over link */
+a:active {color:#995708; text-shadow: 0px 0px 5px #995708;}  /* selected link */
+
+/*text field*/
+input[type=text] {
+	right: 5px;
+	border: 2px solid #da7c0c;
+	margin: 2px;
+	padding: .2em;
+	outline: none;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+}
+input[type=text]:focus {background-color: #FFF1CC;}
+
+/*checkbox*/
+input[type=checkbox] {display: none;}
+input.checkbox[type=checkbox] + label {
+	padding-left:20px;
+    height:15px; 
+	display:inline-block;
+	line-height:15px;
+	background-image:url(lite-orange-check.png);
+	background-repeat:no-repeat;
+	background-position: 0 0;
+	font-size:15px;
+	vertical-align:middle;
+    cursor:pointer;
+}
+input.checkbox[type=checkbox]:checked + label {
+    background-position: 0 -15px;
+	text-shadow: 0px 0px 3px #FF9900;
+}
+input.checkbox[type=checkbox]:hover + label:hover {
+	text-shadow: 0px 0px 5px #FF9900;
+	color: #FF9900;
+}
+.button, input.button   + label{
+	display: inline-block;
+	zoom: 1; /* zoom and *display = ie7 hack for display:inline-block */
+	*display: inline;
+	vertical-align: baseline;
+/* 	margin: 0 2px; */
+	outline: none;
+	cursor: pointer;
+	text-align: center;
+	text-decoration: none;
+	font: 18px/100% sans-serif;
+	padding: .25em .5em .25em;
+	text-shadow: 0 1px 1px rgba(0,0,0,.3);
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
+	box-shadow: 0 1px 2px rgba(0,0,0,.2);
+/* orange */
+	color: #fef4e9;
+	border: solid 1px #da7c0c;
+	background: #f78d1d;
+	background: -webkit-gradient(linear, left top, left bottom, from(#faa51a), to(#f47a20));
+	background: -moz-linear-gradient(top,  #faa51a,  #f47a20);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#faa51a', endColorstr='#f47a20');	
+}
+.rounded, input.rounded + label {
+	-webkit-border-radius: .5em; 
+	-moz-border-radius: .5em;
+	border-radius: .5em;
+}
+.checkbox-wrap { 
+	/* display: inline-block;  */
+	float:left; 
+	/* position: relative; */
+}
+.rounded_left, input.rounded_left + label {
+	border-right: none;
+	-webkit-border-top-left-radius: .5em; 
+	-moz-border-radius-topleft: .5em;
+	border-top-left-radius: .5em;
+	-webkit-border-bottom-left-radius: .5em; 
+	-moz-border-radius-bottomleft: .5em;
+	border-bottom-left-radius: .5em;
+}
+.rounded_right, input.rounded_right + label {
+	-webkit-border-top-right-radius: .5em; 
+	-moz-border-radius-topright: .5em;
+	border-top-right-radius: .5em;
+	-webkit-border-bottom-right-radius: .5em; 
+	-moz-border-radius-bottomright: .5em;
+	border-bottom-right-radius: .5em;
+}	
+.button:hover, input.button:hover + label {
+	text-decoration: none;
+/* orange #FFF1CC */ 
+	background: #f47c20;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f88e11), to(#f06015));
+	background: -moz-linear-gradient(top,  #f88e11,  #f06015);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f88e11', endColorstr='#f06015');	
+}
+/* .button:active {	position: relative;	top: 1px; color: #fcd3a5;} */
+.button:active, input.button:checked + label {
+/* orange */
+	background: -webkit-gradient(linear, left top, left bottom, from(#f47a20), to(#faa51a));
+	background: -moz-linear-gradient(top,  #f47a20,  #faa51a);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f47a20', endColorstr='#faa51a');
+}
+#legend{
+	position: absolute;
+	overflow: auto;
+	width:235px;
+	max-height: 95%;
+	max-width: 95%;
+	left: 5px;
+	bottom: 5px;
+	margin-left: 0px;
+	z-index: 2;
+	background-color: rgba(255,255,255,0.7); /*rgba(255,255,255,0.7); /* rgba(255,241,204,0.7); #FFF; */ /*#FFF1CC;*/
+	padding: 5px;
+	border: 2px solid #da7c0c;
+	-moz-border-radius:10px; /* Old Firefox */
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	-webkit-box-shadow: -2px 2px 2px rgba(0,0,0,.2);
+	-moz-box-shadow: -2px 2px 2px rgba(0,0,0,.2);
+	box-shadow: -2px 2px 2px rgba(0,0,0,.2);
+}
+#legend_button{
+    position: absolute;
+	display: none;
+    left: 5px;
+    bottom: 5px;
+    z-index: 1;
+}
+#hide_button{
+    position: absolute;
+    right: 5px;
+    top: 5px;
+    z-index: 1;
+}
+#info{
+	display: none;
+	margin: 0em;
+	overflow:auto;
+	text-align:justify;
+}
+#vyhladavanie, #path, #address, #a, #b, #search, #navigate, #pedestrian, #delete, #geocode {display: none;}
+/* #trasa + label[for=trasa] {display: none;} */
+body > .container{
+    position: absolute;
+    top: 0;
+    left:0;
+    bottom:0;
+    right: 0;
+    animation: onloadfadein 2s;
+    -moz-animation: onloadfadein 2s; /* Firefox */
+    -webkit-animation: onloadfadein 2s; /* Safari and Chrome */
+    -o-animation: onloadfadein 2s; /* Opera */
+}
+@keyframes onloadfadein {
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-moz-keyframes onloadfadein { /* Firefox */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-webkit-keyframes onloadfadein { /* Safari and Chrome */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity:1;
+    }
+}
+@-o-keyframes onloadfadein { /* Opera */
+    from {
+        opacity:0;
+    }
+    to {
+        opacity: 1;
+    }
+}
