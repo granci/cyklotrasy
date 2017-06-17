@@ -121,7 +121,7 @@ function initialize() {
 	stojany = new google.maps.KmlLayer({
 		map: null,
 		//url: 'https://dl.dropboxusercontent.com/u/58021984/files/slovensko-stojany1.kml',
-		url: 'https://granci.github.io/cyklotrasy/files/slovensko-stojany1.kml',
+		url: 'https://granci.github.io/cyklotrasy/files/slovensko-stojany.kml',
 		preserveViewport: true
 	});
 	//kml cyklotrasy
@@ -153,7 +153,7 @@ function initialize() {
 	pozicovne = new google.maps.KmlLayer({
 		map: null,
 // 		url: 'https://dl.dropboxusercontent.com/u/58021984/files/slovensko-pozicovne4.kml',
-		url: 'https://granci.github.io/cyklotrasy/files/slovensko-pozicovne4.kml',
+		url: 'https://granci.github.io/cyklotrasy/files/slovensko-pozicovne.kml',
 		preserveViewport: true
 	});
 	// doprava
