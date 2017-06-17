@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name><![CDATA[slovensko-pozicovne]]></name>
+  <open>1</open>
+  <Snippet maxLines="2"></Snippet>
+  <description><![CDATA[Exported from slovensko-pozicovne on 6/17/2013]]></description>
+  <Style id="FEATURES">
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/cycling.png</href>
+      </Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>00FFFFFF</color>
+    </LabelStyle>
+    <BalloonStyle>
+      <text>
+		$[name]
+      </text>
+    </BalloonStyle>
+  </Style>
+  <Folder>
+    <name>Features</name>
+    <open>0</open>
+       <Placemark>
+         <name><![CDATA[Prenájom bicyklov]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.6671926,48.3337568,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Prenájom bicyklov]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.6668291,48.3316348,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Prenájom bicyklov Leihradl]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0065235,48.1357289,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Prenájom bicyklov Športservis]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2107156,48.1255649,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Prenájom bicyklov]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1154266,48.1398847,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Prenájom bicyklov]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             20.4279403,49.4403567,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Prenájom bicyklov]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             20.0672442,49.1162074,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Prenájom bicyklov]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7404656,47.7865921,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Prenájom bicyklov]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7330413,47.793757,0
+           </coordinates>
+         </Point>
+       </Placemark>
+  </Folder>
+</Document>
+</kml>

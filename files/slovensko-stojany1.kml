@@ -1,0 +1,3328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+  <name><![CDATA[slovensko-stojany]]></name>
+  <open>1</open>
+  <Snippet maxLines="2"></Snippet>
+  <description><![CDATA[Exported from slovensko-stojany on 6/13/2013]]></description>
+  <Style id="FEATURES">
+    <IconStyle>
+		<Icon>
+			<href>http://maps.google.com/mapfiles/kml/shapes/parking_lot.png</href>
+		</Icon>
+    </IconStyle>
+    <LabelStyle>
+      <color>00FFFFFF</color>
+    </LabelStyle>
+    <BalloonStyle>
+      <text>
+		$[name]
+      </text>
+    </BalloonStyle>
+  </Style>
+  <Folder>
+    <name>Features</name>
+    <open>0</open>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.2578224,48.2773277,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.2589337,48.2773375,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.2582986,48.2763693,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2309672,48.0999179,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1092062,48.1421509,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.110036,48.1442266,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1154226,48.1521364,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.8342031,48.5889686,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0392275,48.1035262,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0394189,48.1034951,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0376034,48.1036887,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1093429,48.1489149,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1093222,48.1398049,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1040888,48.1461803,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2308461,48.4652058,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.231075,48.4656739,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2307602,48.4656074,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2299113,48.4664012,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0201685,48.4363096,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1109878,48.1436191,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1112643,48.1438854,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0611606,48.1529658,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2054639,48.1357221,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0985872,48.1420353,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1152,48.14569,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0509189,48.1802743,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.049986,48.1737356,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0696444,48.1459172,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0315826,48.271201,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0320149,48.2719444,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0317341,48.2717659,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0317941,48.2720348,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.6238593,48.7724063,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.044064,48.1801845,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2312678,48.1017791,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2579784,48.0810529,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1083855,48.1442009,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.3720128,48.6258173,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.3789699,48.6228801,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.3790625,48.622989,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.565865,48.8794135,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.8348581,48.8372775,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.251374,48.7014813,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1094266,48.1441904,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0473097,48.1758097,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.8315771,48.74411,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7136161,47.7907402,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1089661,48.145565,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1034771,48.1456445,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1098732,48.1450877,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1124189,48.1429626,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1382384,48.1666298,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1394795,48.1669383,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.122156,48.1498517,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1365293,48.1580864,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1223861,48.1494484,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1551903,48.1618775,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1142082,48.1450005,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0903374,48.124878,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.124926,48.1477846,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1081197,48.1432312,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1174122,48.149637,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1742622,48.150245,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1081176,48.1423511,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0718643,48.15005,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0717957,48.1501534,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.9393393,48.8883306,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.8354047,48.7513692,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1262572,48.1467871,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1252741,48.1488019,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.120071,48.1490329,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1173468,48.1501183,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1749975,48.1698308,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1254327,48.1492511,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.125651,48.1497509,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1257254,48.1501879,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1082177,48.1556715,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1457376,48.1760399,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.11046,48.1513,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.5210534,49.1160431,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.5207446,49.1161146,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.5964414,49.356547,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.116549,48.1401036,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1073603,48.1434294,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1048082,48.1409269,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1128654,48.1488395,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1122013,48.1447338,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1341979,48.1460259,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.9318451,49.088687,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1194007,48.1441068,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.6132744,49.3618008,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.613247,49.3618776,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1367803,48.1446549,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.9308831,49.0657917,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.6156994,49.360201,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.8197843,48.5763388,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1349201,48.1493479,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1349712,48.1494165,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1172463,48.1409867,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.903601,48.7618941,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.820643,48.5844039,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.8169842,48.5830981,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.8194391,48.5841533,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1606682,48.193539,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.2496264,48.9838308,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             22.1943516,48.7650997,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.6077502,49.3591926,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.6097876,49.3594499,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.2431191,48.9871657,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1002785,48.1456078,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1359643,48.130079,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7617988,49.2021035,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7521549,49.2119904,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1285854,48.1599479,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.7377594,48.2860143,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.3918293,48.1923946,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.1330102,48.7198779,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1042438,48.1291566,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7309552,49.2183129,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7307428,49.2184459,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2176592,48.2477416,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1379589,48.1673605,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.60983,49.3590782,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.6095815,49.3592011,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.3437609,48.6928684,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.3434885,48.694689,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.2292829,49.0003124,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.2284232,49.000794,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.2290916,49.000426,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7685603,49.2168898,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1738867,48.1302342,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.5924716,48.7676567,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1745463,48.128121,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.1268727,48.6773174,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.8480464,48.5955514,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1824737,48.1701531,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.182574,48.1706954,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1102897,48.1459481,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7382734,49.2253342,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.4472408,49.1145479,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.4548154,49.1093861,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.447391,49.1158892,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.4462484,49.1161596,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.4467902,49.1136806,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.4314534,49.1226513,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7566289,49.2115824,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7486055,49.2141939,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2107859,48.8510483,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1304975,48.1568859,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.3219126,49.1019329,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.3165605,49.1065253,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1055339,48.1547058,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.8373149,48.7574169,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7416658,49.2253204,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7565484,49.1988642,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7562044,49.199148,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7563432,49.1994879,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7553856,49.2042112,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.755446,49.2042533,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.75477,49.204842,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7550262,49.2050418,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7577659,49.2115401,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7489786,49.2132818,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.737336,49.2166899,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7528892,49.219934,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7481441,49.2201663,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7424182,49.2216587,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7411375,49.2220479,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7356087,49.2221635,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7467919,49.2229353,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7336754,49.2238258,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7410502,49.2240862,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7355716,49.2241522,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.742555,49.22469,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7414879,49.2254659,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7432664,49.226261,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7413348,49.2266857,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7329858,49.2274771,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.116544,48.1467296,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.5405817,47.7609377,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             16.9710641,48.20154,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7450597,49.2163656,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.7986674,48.7217604,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             16.9669016,48.7248076,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.12631,48.1497951,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.6057123,48.9384915,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1381704,48.1682414,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7634501,49.203975,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7428193,49.2248769,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7413339,49.2261836,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7412892,49.2146604,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7411063,49.2196017,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7408209,49.22147,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.5932921,48.2109202,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7389935,49.2234052,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7389179,49.2234843,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7394906,49.2237377,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             22.2906591,48.6242259,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             21.0473077,49.166951,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0497023,48.08664,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0513896,48.0874408,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0751026,48.1748675,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7411205,49.220681,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7412407,49.2208822,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.741114,49.2209267,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1461279,48.1646579,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1456333,48.1576517,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1204146,48.1407214,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7710094,49.224834,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7582424,49.2269243,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.113582491809,48.156670398939,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.210840702318,48.851078015993,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Aupark]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1094852,48.1320535,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Aupark]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1080783,48.1321148,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Aupark]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1086876,48.133534,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Aupark Tower]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1057013,48.1338668,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Billa]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0600765,48.153976,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Billa]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1065938,48.1045506,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Billa Farského]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1149789,48.1287449,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Billa Nobelovo námestie]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.099662,48.1302879,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Carrefour]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0946148,48.1070678,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Centrál]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1299213,48.1577308,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Cyklodepo]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.0942996,48.3125692,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle diamant]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1074888,48.1417585,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle DK Lúky]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1081139,48.0978526,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Dóm sv. Martina]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1047712,48.1422651,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Elledanse parking]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.136907,48.1542127,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Eurovea]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1237311,48.1395991,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Eurovea]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1191762,48.1401786,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Eurovea]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1219291,48.1405506,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Fakulta chemickej a potravinárskej technológie STU]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1143662,48.1501291,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Hornbach Lamac]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.020286,48.2060875,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle IKEA]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1824299,48.1683231,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle IKEA]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1811878,48.1661862,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle IKEA]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1811878,48.1661862,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle IKEA]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1811878,48.1661862,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Kamenné nám.]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1133793,48.1450937,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Kaufland]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             19.1648787,48.7360261,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Kerametal]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1661362,48.1570027,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Kotrmelec]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0499204,48.1851014,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Kúpalisko Krasnany]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1449671,48.2015254,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Kúpalisko Lamac]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0505634,48.1874352,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Lekáren Zelená farmácia]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2079288,48.1330882,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Lidl Betliarska]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1108045,48.0987751,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Lidl Jiráskova]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1004421,48.1126481,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Lidl Lamac]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0439931,48.1991445,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Lidl Mamateyova]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1244988,48.1255144,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Lidl Vráble]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.3032866,48.2446141,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Miestny úrad Bratislava - Staré Mesto]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1110517,48.14018,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Mýtny domcek]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1167891,48.1358801,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle NR SR]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0980887,48.1421247,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Paddler Club]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0677969,48.1469078,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Prístav]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1126815,48.1399587,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Retro]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.157568,48.1513557,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Retro]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1578819,48.1521923,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle River Park]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.08976,48.1415487,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle River Park]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0890668,48.1413444,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle River Park]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0905596,48.1410662,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle River Park]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0910317,48.1409783,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle River Park]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.088667,48.141421,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle River Park]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0897481,48.1417823,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Sociálna poistovna]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1245056,48.1534698,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Športservis]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.2107534,48.1256779,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Stará tržnica]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1113291,48.1449222,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Starohájska piváren]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1235212,48.1244923,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Technopol]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1111126,48.1113446,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Terno]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0989779,48.1112782,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Tesco]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.1142206,48.1448588,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Tesco Lamac]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.06434,48.1770549,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Tesco Lamac]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0651259,48.1767078,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Tesco Petržalka]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0930804,48.1071251,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Tesco Petržalka]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0973749,48.1092292,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Tesco Petržalka]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.0973876,48.1079235,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle The Doctor Café]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             18.7422162,48.2581977,0
+           </coordinates>
+         </Point>
+       </Placemark>
+       <Placemark>
+         <name><![CDATA[Stojan na bicykle Tower 115]]></name>
+         <Snippet maxLines="2"></Snippet>
+         <styleUrl>#FEATURES</styleUrl>
+         <Point>
+           <extrude>0</extrude>
+           <altitudeMode>clampedToGround</altitudeMode>
+           <coordinates>
+             17.127031,48.1413292,0
+           </coordinates>
+         </Point>
+       </Placemark>
+  </Folder>
+</Document>
+</kml>
